@@ -1,1 +1,3 @@
 hello world
+
+git pull -f --allow-unrelated-histories origin master
